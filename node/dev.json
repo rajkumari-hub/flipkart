@@ -1,22 +1,22 @@
 {
-  "environment": "bsd,fbask",
-  "nodeName": "baskfbkab",
-  "nodeType": "nsdkfjbskd",
-  "region": "kjbsdkfjbs",
-  "availabilityZone": "us-east-1a",
-  "instanceType": "t3.micro",
-  "os": "Amazon Linux 2023",
+  "environment": "kajsldhaslh",
+  "nodeName": "hadfhskdfjhg",
+  "nodeType": "gsdfkgskdfg",
+  "region": "kgsdkfgksg",
+  "availabilityZone": "kgsdkfgsk",
+  "instanceType": "kgsdkfjgksd",
+  "os": "kgsdkfjgsk",
   "kubernetes": {
-    "role": "worker",
-    "version": "1.36"
+    "role": "kgwrgtkrg",
+    "version": "kgdfgd"
   },
   "resources": {
-    "cpu": "2",
-    "memory": "1Gi",
-    "disk": "20Gi"
+    "cpu": "5464",
+    "memory": "654654",
+    "disk": "6464"
   },
   "labels": {
-    "environment": "dev",
-    "team": "development"
+    "environment": "6464",
+    "team": "g"
   }
 }
