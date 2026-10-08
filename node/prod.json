@@ -1,22 +1,22 @@
 {
-  "environment": "prod",
-  "nodeName": "node-01",
-  "nodeType": "worker",
-  "region": "us-east-1",
-  "availabilityZone": "us-east-1b",
-  "instanceType": "t3.large",
-  "os": "Amazon Linux 2023",
+  "environment": "uuuuuu",
+  "nodeName": "uuuu",
+  "nodeType": "uuu",
+  "region": "hhhh",
+  "availabilityZone": "iiii",
+  "instanceType": "gggg",
+  "os": "kkkk",
   "kubernetes": {
-    "role": "worker",
-    "version": "1.36"
+    "role": "ggg",
+    "version": "ccccc"
   },
   "resources": {
-    "cpu": "2",
-    "memory": "8Gi",
-    "disk": "100Gi"
+    "cpu": "ttttt",
+    "memory": "yyyy",
+    "disk": "fffff"
   },
   "labels": {
-    "environment": "prod",
-    "team": "platform"
+    "environment": "uuuuu",
+    "team": "rrrr"
   }
 }
