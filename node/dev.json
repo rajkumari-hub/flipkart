@@ -1,8 +1,8 @@
 {
-  "environment": "dev",
-  "nodeName": "node-01",
-  "nodeType": "worker",
-  "region": "us-east-1",
+  "environment": "bsd,fbask",
+  "nodeName": "baskfbkab",
+  "nodeType": "nsdkfjbskd",
+  "region": "kjbsdkfjbs",
   "availabilityZone": "us-east-1a",
   "instanceType": "t3.micro",
   "os": "Amazon Linux 2023",
