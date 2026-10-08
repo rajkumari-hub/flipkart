@@ -1,22 +1,22 @@
 {
-  "environment": "kajsldhaslh",
-  "nodeName": "hadfhskdfjhg",
-  "nodeType": "gsdfkgskdfg",
-  "region": "kgsdkfgksg",
-  "availabilityZone": "kgsdkfgsk",
-  "instanceType": "kgsdkfjgksd",
-  "os": "kgsdkfjgsk",
+  "environment": "hsdkjfhsk",
+  "nodeName": "hsdfhskh",
+  "nodeType": "jkhskfh",
+  "region": "131321",
+  "availabilityZone": "13131",
+  "instanceType": "313213",
+  "os": "13131",
   "kubernetes": {
-    "role": "kgwrgtkrg",
-    "version": "kgdfgd"
+    "role": "23121321",
+    "version": "31321321"
   },
   "resources": {
-    "cpu": "5464",
-    "memory": "654654",
-    "disk": "6464"
+    "cpu": "32131",
+    "memory": "31321",
+    "disk": "546"
   },
   "labels": {
-    "environment": "6464",
-    "team": "g"
+    "environment": "46",
+    "team": "21313"
   }
 }
