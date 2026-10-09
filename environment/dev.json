@@ -1,20 +1,20 @@
 {
-  "environment": "dev",
-  "appName": "myapp",
-  "version": "1.0.0",
-  "replicas": 1,
-  "logLevel": "DEBUG",
-  "database": {
-    "host": "dev-db.example.com",
-    "port": 5432,
-    "name": "myapp_dev"
-  },
-  "resources": {
-    "cpu": "250m",
-    "memory": "256Mi"
-  },
-  "features": {
-    "debug": true,
-    "maintenanceMode": false
-  }
+    "environment": "dev",
+    "appName": "myapp",
+    "version": "1.0.0",
+    "replicas": 1,
+    "logLevel": "DEBUG",
+    "database":     {
+        "host": "dev-db.example.com",
+        "port": 5432,
+        "name": "myapp_dev"
+    },
+    "resources":     {
+        "cpu": "250m",
+        "memory": "256Mi"
+    },
+    "features":     {
+        "debug": true,
+        "maintenanceMode": false
+    }
 }
